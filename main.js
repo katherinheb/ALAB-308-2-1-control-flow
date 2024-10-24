@@ -1,6 +1,6 @@
+const PI = 3.1415 // PI
 let r = 5 // Radius in meters
 let A = PI * ((r) **2) // Area formula
-const PI = 3.1415 // PI
 const MiniSpaceArea = 0.8
 let Week1 = 20;
 
